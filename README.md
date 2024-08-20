@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cronus - O Planejador Definitivo para Suas Obras
 
 **Cronus** é um aplicativo inovador, desenvolvido em Python, que revoluciona a forma como você gerencia seus projetos de construção. Com uma interface intuitiva e uma API robusta, Cronus oferece um controle preciso e eficiente de todas as etapas de suas obras, desde o planejamento inicial até a finalização.
@@ -30,3 +31,7 @@ Se você é um desenvolvedor e deseja contribuir para o desenvolvimento de Cronu
 **[Repositório GitHub](https://github.com/Nycolas-Galdino/Cronus)**
 
 **Palavras-chave:** agendamento de obras, gerenciamento de projetos, construção civil, Python, API, software livre
+=======
+# Cronus
+Cronus é um aplicativo inovador, desenvolvido em Python, que revoluciona a forma como você gerencia seus projetos de construção. Com uma interface intuitiva e uma API robusta, Cronus oferece um controle preciso e eficiente de todas as etapas de suas obras, desde o planejamento inicial até a finalização.
+>>>>>>> refs/remotes/remote/main
