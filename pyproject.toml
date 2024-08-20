@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Cronus APP"
+version = "0.1.0"
+description = "Cronus é um aplicativo inovador, desenvolvido em Python, que revoluciona a forma como você gerencia seus projetos de construção. Com uma interface intuitiva e uma API robusta, Cronus oferece um controle preciso e eficiente de todas as etapas de suas obras, desde o planejamento inicial até a finalização."
+authors = ["Nycolas Galdino <nycolaspimentel12@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

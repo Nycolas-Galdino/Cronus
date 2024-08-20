@@ -1,0 +1,26 @@
+Cronus/
+├── cronus/                  # Pasta principal do código fonte do aplicativo
+│   ├── __init__.py          # Torna o diretório um módulo Python
+│   ├── api/                 # Implementação da API
+│   │   ├── __init__.py
+│   │   ├── endpoints.py     # Definições dos endpoints da API
+│   │   ├── schemas.py       # Definição de esquemas (e.g., Pydantic) para validação de dados
+│   └── core/                # Lógica principal do aplicativo
+│       ├── __init__.py
+│       ├── scheduling.py    # Módulo para o agendamento de tarefas
+│       ├── resources.py     # Gerenciamento de recursos (materiais, mão de obra)
+│       └── notifications.py # Implementação das notificações personalizadas
+│
+├── tests/                   # Testes automatizados
+│   ├── __init__.py
+│   ├── test_api.py          # Testes para a API
+│   └── test_core.py         # Testes para a lógica principal
+│
+├── scripts/                 # Scripts de automação e ferramentas de linha de comando
+│   ├── __init__.py
+│   └── setup.py             # Script para configuração e inicialização do ambiente
+│
+├── Dockerfile               # Definição do container Docker
+├── pyproject.toml           # Arquivo de configuração do Poetry
+├── README.md                # Documentação do projeto
+└── .gitignore               # Arquivo de exclusão para o Git
